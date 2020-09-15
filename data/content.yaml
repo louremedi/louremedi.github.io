@@ -1,6 +1,7 @@
 BasicInfo:
   FirstName: Lou
   LastName: Remedi
+  Title: Front-End Developer
   Photo: img/avatar.png
   Contacts:
     - Info: louremedi@live.fr
