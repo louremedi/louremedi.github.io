@@ -1,116 +1,128 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
-  Photo: img/avatar.jpg
+  FirstName: Lou
+  LastName: Remedi
+  Photo: img/avatar.png
   Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 789
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
-    - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: louremedi@live.fr
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Paris 19ème
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Développeur Front-End basé en région parisienne avec 4+ ans d’expérience dans le domaine du développement Web. 
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Safety Line
+    Place: Paris, France
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Développeur Front-End
+        Date: Janvier 2019 - poste actuel
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Développement Front-End en AngularTS concernant la maintenance des solutions clients existantes.
+          - Développement Front-End de nouvelles fonctionnalités en concordances avec les demandes de l'équipe métier des clients
+          - Maintenance et débug des fonctionnalités existantes sur les applications
+        Badges: ['Angular', 'Sass']
+  - Employer: Wifirst
+    Place: Paris, France
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Développeur Front-End
+        Date: Octobre 2018 - Décembre 2018
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+          - Développement Front-End en React.js ainsi qu'intégration en HTML 5/CSS 3 concernant la maintenance d'outils de gestion interne.
+          - Développement en React.js de nouvelles fonctionnalités en concordances avec les demandes utilisateurs
+          - Maintenance et débug des fonctionnalités existantes
+          - Intervention sur les interfaces front pour les refondre et les rendre responsive
+          - Intégration de maquettes pour des portails destinés à être projetés sur des télévisions
+        Badges: ['React.js', 'Sass']
+  - Employer: Alter Way
+    Place: St-Cloud, France
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Développeur Front-End
+        Date: Avril 2018 - Octobre 2018
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Développement Front-End en Vue.js et React.js ainsi qu'intégration Web en HTML 5/CSS 3 de plusieurs projets clients.
+          - Projet client d'un intranet de gestion commerciale.
+          - Dévelopement Front-End de l'application Web en Vue.js
+          - Mise en place de l'architecture Front du projet
+          - Utilisation de Chart.js et DataTables
+          - Développement de l'espace d'administration avec gestion dynamique du contenu du site
+          - Intégration de la charte graphique et des déclinaisons responsives des maquettes
+          - Projet d'un intranet de facturation.
+          - Mise en place d'une interface Web en Vue.js
+          - Développement d’une architecture de composants en concordance avec les wireframes
+          - Utilisation de Chart.js et DataTables
+          - Intégration des composants spécifiques au projet avec Boostrap 3
+          - Projet d'interface interactive dans l'optique de remplacer un document Excel.
+          - Durant cette mission, j'ai été amené à effectuer les tâches suivantes
+          - Compréhension et traduction du besoin en tableau de données JSON
+          - Développement d’une interface de tableaux interactifs avec calculs en temps réel avec React 16.4
+          - Mise en place de composants configurables afin de répondre à l'ensemble des cas d'utilisation
+        Badges: ['Vue.js', 'React.js', 'Sass']
+      - Title: Intégrateur Web/Développeur Front-End
+        Date: Juillet 2017 - Avril 2018
+        Details:
+          - Développement d'une application Web destinée à la gestion d'un parc immobilier.
+          - Dans le cadre de ce projet, mon rôle a été d'être le référent de développement Front-End pour une équipe de 8 développeurs.
+          - Spécification et développement de l'architecture Front-End du site
+          - Responsabilité de la qualité de code Front-End
+          - Intégration de la charte graphique et mise en place du styleguide
+          - Intégration et déclinaisons responsives de maquettes
+          - Développement front-end en HTML/Twig, CSS/Sass
+          - Développement en Javascript/jQuery des interfaces interactives
+          - Mise en place d’interfaces spécifiques avec Chart.js et DataTables
+        Badges: ['Twig', 'Sass', 'jQuery']
+      - Title: Intégrateur Web (alternance)
+        Date: Janvier 2017 - Juillet 2017
+        Details:
+          - Intégration de chartes graphiques personnalisées pour des applications Web et intégration de sites e-commerces.
+          - Intégration et déclinaisons responsives de maquettes
+          - Développement en Javascript/jQuery des interfaces interactives
+          - Développement front-end accessible en HTML/Twig et CSS/Sass
+          - Theming et structure HTML/Twig de sites propulsés par Wordpress et Drupal 7
+          - Theming et configuration de sites ecommerce sous Prestashop 1.7
+          - Audit, développement Front-End et recueil du besoin dans le domaine de l’accessibilité
+        Badges: ['Twig', 'Sass', 'jQuery', 'Wordpress', 'Drupal', 'Prestashop', 'Accessibilité']
+  - Employer: Agence Webcom
+    Place: Paris, France
+    Positions:
+      - Title: Intégrateur Web (alternance)
+        Date: Février 2016 - Janvier 2017
+        Details:
+          - Intégration de chartes graphiques sur un catalogue de templates pour des sites vitrines de services hôteliers et intégration de sites e-commerces.
+          - Intégration HTML5/CSS3 avec CMS interne
+          - Développement front-end en Twig et Sass
+          - Développement en Javascript/jQuery des interfaces interactives
+          - Theming et configuration d’un site ecommerce sous Prestashop 1.6
+        Badges: ['Twig', 'Sass', 'jQuery', 'Prestashop']
+  - Employer: Mode et prêt-à-porter
+    Place: Île-de-France, France
+    Positions:
+      - Title: Conseiller de vente
+        Date: 2011 - 2015
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: Certification accessibilité
+    Place: Access42
+    Date: Janvier 2017
+    Details: Formation de 3 jours ayant pour objectifs de connaître l’accessibilité numérique et savoir en intégrer les règles de développement, complétée d’un examen permettant de valider la certification.
+  - Course: Développement Web
+    Place: Institut F2i
+    Date: Février 2016 - Janvier 2017
+    Details: Formation en alternance de 16 mois, 1 semaine de cours par mois.<br/> AngularJS, PHP, SQL, UML, UX, référencement SEO, gestion de projet.<br /> Le projet de fin d’étude consistait en un site e-commerce de produits parapharmaceutiques en conditions réels d’agence (3 étudiants).
+
 
 Skills:
-  - Family: Programming
+  - Family: Développement Front-End
     Items:
-      - Python
-      - HTML (including Jinja)
       - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
+      - Angular
+      - Typescript
+      - React.js
+      - Vue.js
+      - Twig
+      - Prestashop
+  - Family: Intégrateur Web
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
-
-Languages:
-  - Name: Portuguese
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
-
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
-
-Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+      - HTML 5
+      - CSS 3
+      - jQuery
+      - Bootstrap
