@@ -3,10 +3,8 @@ BasicInfo:
   LastName: Remedi
   Photo: img/avatar.png
   Contacts:
-    - Icon: fas fa-envelope
-      Info: louremedi@live.fr
-    - Icon: fas fa-map-marker-alt
-      Info: Paris 19ème
+    - Info: louremedi@live.fr
+    - Info: Paris 19ème
 
 Profile: Développeur Front-End basé en région parisienne avec 4+ ans d’expérience dans le domaine du développement Web. 
 

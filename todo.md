@@ -10,3 +10,4 @@
 - Profil dans colonne
 - revoir style (comme CV)
 - thème light/dark
+- responsive

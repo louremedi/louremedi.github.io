@@ -6,7 +6,7 @@ title = "Lou Remedi"
 [params]
 colorDark = "#666"
 colorLight = "#fff"
-colorPageBackground = "#333333"
+colorPageBackground = "#000"
 colorPrimary = "#666"
 colorPrimaryText = "#fff"
 colorRightColumnBackground = "#333333"
