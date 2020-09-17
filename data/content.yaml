@@ -13,90 +13,35 @@ Experience:
   - Employer: Safety Line
     Title: Développeur Front-End
     Positions:
-      - Title: Développeur Front-End
-        Date: Janvier 2019 - poste actuel
+      - Date: Janvier 2019 - poste actuel
         Details:
-          - Développement Front-End en AngularTS concernant la maintenance des solutions clients existantes.
-          - Développement Front-End de nouvelles fonctionnalités en concordances avec les demandes de l'équipe métier des clients
-          - Maintenance et débug des fonctionnalités existantes sur les applications
+          - Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis, quo cum. Exercitationem non, harum eos quod nesciunt obcaecati ducimus dolorem amet consequuntur provident temporibus fugiat! Autem quod beatae earum sunt.
         Badges: ['Angular', 'Sass']
   - Employer: Wifirst
     Title: Développeur Front-End
     Positions:
-      - Title: Développeur Front-End
-        Date: Octobre 2018 - Décembre 2018
+      - Date: Octobre 2018 - Décembre 2018
         Details:
-          - Développement Front-End en React.js ainsi qu'intégration en HTML 5/CSS 3 concernant la maintenance d'outils de gestion interne.
-          - Développement en React.js de nouvelles fonctionnalités en concordances avec les demandes utilisateurs
-          - Maintenance et débug des fonctionnalités existantes
-          - Intervention sur les interfaces front pour les refondre et les rendre responsive
-          - Intégration de maquettes pour des portails destinés à être projetés sur des télévisions
+          - Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis, quo cum. Exercitationem non, harum eos quod nesciunt obcaecati ducimus dolorem amet consequuntur provident temporibus fugiat! Autem quod beatae earum sunt.
         Badges: ['React.js', 'Sass']
   - Employer: Alter Way
     Title: Développeur Front-End
     Positions:
-      - Title: Développeur Front-End
-        Date: Avril 2018 - Octobre 2018
+      - Date: Janvier 2017 - Octobre 2018
         Details:
-          - Développement Front-End en Vue.js et React.js ainsi qu'intégration Web en HTML 5/CSS 3 de plusieurs projets clients.
-          - Projet client d'un intranet de gestion commerciale.
-          - Dévelopement Front-End de l'application Web en Vue.js
-          - Mise en place de l'architecture Front du projet
-          - Utilisation de Chart.js et DataTables
-          - Développement de l'espace d'administration avec gestion dynamique du contenu du site
-          - Intégration de la charte graphique et des déclinaisons responsives des maquettes
-          - Projet d'un intranet de facturation.
-          - Mise en place d'une interface Web en Vue.js
-          - Développement d’une architecture de composants en concordance avec les wireframes
-          - Utilisation de Chart.js et DataTables
-          - Intégration des composants spécifiques au projet avec Boostrap 3
-          - Projet d'interface interactive dans l'optique de remplacer un document Excel.
-          - Durant cette mission, j'ai été amené à effectuer les tâches suivantes
-          - Compréhension et traduction du besoin en tableau de données JSON
-          - Développement d’une interface de tableaux interactifs avec calculs en temps réel avec React 16.4
-          - Mise en place de composants configurables afin de répondre à l'ensemble des cas d'utilisation
+          - Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis, quo cum. Exercitationem non, harum eos quod nesciunt obcaecati ducimus dolorem amet consequuntur provident temporibus fugiat! Autem quod beatae earum sunt.
         Badges: ['Vue.js', 'React.js', 'Sass']
-      - Title: Intégrateur Web/Développeur Front-End
-        Date: Juillet 2017 - Avril 2018
-        Details:
-          - Développement d'une application Web destinée à la gestion d'un parc immobilier.
-          - Dans le cadre de ce projet, mon rôle a été d'être le référent de développement Front-End pour une équipe de 8 développeurs.
-          - Spécification et développement de l'architecture Front-End du site
-          - Responsabilité de la qualité de code Front-End
-          - Intégration de la charte graphique et mise en place du styleguide
-          - Intégration et déclinaisons responsives de maquettes
-          - Développement front-end en HTML/Twig, CSS/Sass
-          - Développement en Javascript/jQuery des interfaces interactives
-          - Mise en place d’interfaces spécifiques avec Chart.js et DataTables
-        Badges: ['Twig', 'Sass', 'jQuery']
-      - Title: Intégrateur Web (alternance)
-        Date: Janvier 2017 - Juillet 2017
-        Details:
-          - Intégration de chartes graphiques personnalisées pour des applications Web et intégration de sites e-commerces.
-          - Intégration et déclinaisons responsives de maquettes
-          - Développement en Javascript/jQuery des interfaces interactives
-          - Développement front-end accessible en HTML/Twig et CSS/Sass
-          - Theming et structure HTML/Twig de sites propulsés par Wordpress et Drupal 7
-          - Theming et configuration de sites ecommerce sous Prestashop 1.7
-          - Audit, développement Front-End et recueil du besoin dans le domaine de l’accessibilité
-        Badges: ['Twig', 'Sass', 'jQuery', 'Wordpress', 'Drupal', 'Prestashop', 'Accessibilité']
   - Employer: Agence Webcom
     Title: Intégrateur Web
     Positions:
-      - Title: Intégrateur Web (alternance)
-        Date: Février 2016 - Janvier 2017
+      - Date: Février 2016 - Janvier 2017
         Details:
-          - Intégration de chartes graphiques sur un catalogue de templates pour des sites vitrines de services hôteliers et intégration de sites e-commerces.
-          - Intégration HTML5/CSS3 avec CMS interne
-          - Développement front-end en Twig et Sass
-          - Développement en Javascript/jQuery des interfaces interactives
-          - Theming et configuration d’un site ecommerce sous Prestashop 1.6
+          - Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis, quo cum. Exercitationem non, harum eos quod nesciunt obcaecati ducimus dolorem amet consequuntur provident temporibus fugiat! Autem quod beatae earum sunt.
         Badges: ['Twig', 'Sass', 'jQuery', 'Prestashop']
-  - Employer: Mode et prêt-à-porter
+  - Employer: Divers
     Title: Conseiller de vente
     Positions:
-      - Title: Conseiller de vente
-        Date: 2011 - 2015
+      - Date: 2011 - 2015
 
 Education:
   - Course: Certification accessibilité
