@@ -6,3 +6,5 @@
 - revoir les textes
 - thème light/dark
 - responsive
+- optimiser @print
+- revoir avatar
