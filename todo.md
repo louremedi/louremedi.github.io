@@ -1,10 +1,13 @@
 *TO DO LIST*
 
-- bouton save, imprimer
-- multi-langue (fr, en)
-- impression sur une seule page
+Boutons :
+- Sauvegarder (PDF)
+- Imprimer (thème clair, 1 page)
+- Switch langue (FR, EN)
+- Switch thème (clair, foncé)
+- Lien vers Linkedin
+
+Contenu :
 - revoir les textes
-- thème light/dark
-- responsive
-- optimiser @print
 - revoir avatar
+- responsive
