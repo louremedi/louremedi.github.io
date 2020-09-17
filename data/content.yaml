@@ -11,7 +11,7 @@ Profile: Développeur Front-End basé en région parisienne avec 4+ ans d’exp�
 
 Experience:
   - Employer: Safety Line
-    Place: Paris, France
+    Title: Développeur Front-End
     Positions:
       - Title: Développeur Front-End
         Date: Janvier 2019 - poste actuel
@@ -21,7 +21,7 @@ Experience:
           - Maintenance et débug des fonctionnalités existantes sur les applications
         Badges: ['Angular', 'Sass']
   - Employer: Wifirst
-    Place: Paris, France
+    Title: Développeur Front-End
     Positions:
       - Title: Développeur Front-End
         Date: Octobre 2018 - Décembre 2018
@@ -33,7 +33,7 @@ Experience:
           - Intégration de maquettes pour des portails destinés à être projetés sur des télévisions
         Badges: ['React.js', 'Sass']
   - Employer: Alter Way
-    Place: St-Cloud, France
+    Title: Développeur Front-End
     Positions:
       - Title: Développeur Front-End
         Date: Avril 2018 - Octobre 2018
@@ -81,7 +81,7 @@ Experience:
           - Audit, développement Front-End et recueil du besoin dans le domaine de l’accessibilité
         Badges: ['Twig', 'Sass', 'jQuery', 'Wordpress', 'Drupal', 'Prestashop', 'Accessibilité']
   - Employer: Agence Webcom
-    Place: Paris, France
+    Title: Intégrateur Web
     Positions:
       - Title: Intégrateur Web (alternance)
         Date: Février 2016 - Janvier 2017
@@ -93,7 +93,7 @@ Experience:
           - Theming et configuration d’un site ecommerce sous Prestashop 1.6
         Badges: ['Twig', 'Sass', 'jQuery', 'Prestashop']
   - Employer: Mode et prêt-à-porter
-    Place: Île-de-France, France
+    Title: Conseiller de vente
     Positions:
       - Title: Conseiller de vente
         Date: 2011 - 2015

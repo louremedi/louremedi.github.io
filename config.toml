@@ -4,11 +4,10 @@ theme = "almeida-cv"
 title = "Lou Remedi"
 
 [params]
-colorDark = "#666"
-colorLight = "#F8F8F8"
+colorText = "#010101"
+colorBadgeText = "#F8F8F8"
+colorBadgeBackground = "#666"
+colorColumnText = "#F8F8F8"
+colorColumnBackground = "#333333"
 colorPageBackground = "#000"
-colorPrimary = "#666"
-colorPrimaryText = "#fff"
-colorRightColumnBackground = "#333333"
-colorSecondary = "#aaa"
-pages = 1
+nbPages = 1
